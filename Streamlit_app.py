@@ -64,9 +64,9 @@ def main():
     st.markdown(title_css, unsafe_allow_html=True)
 
     # Sidebar
-    st.sidebar.write("<h1 style='color: #F63366; font-size: 36px;'>Harsh Jadhav</h1>", unsafe_allow_html=True)
+    st.sidebar.write("<h1 style='color: #F63366; font-size: 36px;'Group 5</h1>", unsafe_allow_html=True)
 
-    st.sidebar.write("GitHub profile : (https://github.com/HarshJadhav100)")
+    st.sidebar.write("GitHub profile : (https://github.com/HarshJadhav100/thyroid-disesase-detection_using_streamlit)")
 
     st.sidebar.title("About Project :")
     st.sidebar.write("This Streamlit app serves as a Thyroid Diagnosis Predictor. It utilizes machine learning to predict thyroid diagnosis based on various patient attributes such as age, sex, medical history, and laboratory test results. Users can input patient data and receive an immediate diagnosis prediction, helping medical professionals make informed decisions efficiently.")
