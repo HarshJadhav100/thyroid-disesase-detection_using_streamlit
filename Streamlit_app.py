@@ -80,8 +80,8 @@ def main():
         - On Antithyroid Meds: Whether patient is on antithyroid meds (bool)
         - Sick: Whether patient is sick (bool)
         - Pregnant: Whether patient is pregnant (bool)
-        - Thyroid Surgery: Whether patient has undergone thyroid surgery (bool)
-        - I131 Treatment: Whether patient is undergoing I131 treatment (bool)
+        - Thyroid Surgery: Whether patient has undergone thyroid surgery
+        - I131 Treatment: Whether patient is undergoing I131 treatment
         - Query Hypothyroid: Whether patient believes they have hypothyroid (bool)
         - Query Hyperthyroid: Whether patient believes they have hyperthyroid (bool)
         - Lithium: Whether patient takes lithium (bool)
